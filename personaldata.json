@@ -1,0 +1,12 @@
+{
+    "name": "Subodh Sohoni",
+    "age": "58",
+    "married": "True",
+    "divorced": "False",
+    "children": ["Smita"],
+    "pets": "None",
+    "cars": [
+      {"model": "Maruti Baleno", "avg": "13.5"},
+      {"model": "Maruti Celerio", "avg": "24.1"}
+    ]
+}
